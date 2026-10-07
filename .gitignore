@@ -1,0 +1,37 @@
+# Environment & Credentials
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads & Temporary Directories
+uploads/
+_temp_extract/
+_temp_shp/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db

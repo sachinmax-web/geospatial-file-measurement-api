@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Lines and Points</name>
+    <Placemark>
+      <name>Broadway Route</name>
+      <LineString>
+        <coordinates>
+          -73.985,40.748,0
+          -73.981,40.753,0
+          -73.974,40.762,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Times Square Landmark</name>
+      <Point>
+        <coordinates>-73.9855,40.7580,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Polygons</name>
+    <Placemark>
+      <name>Central Park Zone</name>
+      <description>Sample polygon feature in New York</description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -73.973,40.764,0
+              -73.981,40.768,0
+              -73.958,40.800,0
+              -73.949,40.796,0
+              -73.973,40.764,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
